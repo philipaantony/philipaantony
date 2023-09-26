@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philipaantony
-- 👀 I’m interested in Full Stack Development
+- 👀 MERN Stack Developer
 - 🌱 I’m currently doing Master's in Computer Applications
 - 💞️ I'm open to collaborating on exciting projects in the field of software development and web development.
 - 📫 You can reach me via email at philipantony4u@gmail.com 
