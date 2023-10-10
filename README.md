@@ -4,7 +4,6 @@
 - 💞️ I'm open to collaborating on exciting projects in the field of software development and web development.
 - 📫 You can reach me via email at philipantony4u@gmail.com 
 - LinkedIn in/philip-antony-2a79a51aa
-- 
 
 <!---
 
